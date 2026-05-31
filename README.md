@@ -9,3 +9,13 @@ To classify the posts, I train multiple machine learning models, including Gauss
 To enhance the reliability of the system, I evaluate the models using performance metrics such as accuracy, precision, recall, F1-score, confusion matrix, and classification reports. Special attention is given to correctly identifying potentially suicidal content, as this is critical in real-world applications.
 
 Finally, I save the trained model and vectorizer for future inference on new text inputs. The goal of this project is to accurately identify potentially suicidal content and demonstrate the practical application of NLP and machine learning techniques in mental health-related text classification.
+
+
+
+
+
+---
+
+> **⚠️ NOTE:** GitHub may not be able to render this notebook correctly due to its size and output content. To view the complete project, please download `SuicideldeationDectection.ipynb` and open it locally using Jupyter Notebook, Jupyter Lab, VS Code, or Google Colab.
+
+---
